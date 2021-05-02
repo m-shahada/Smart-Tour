@@ -1,4 +1,4 @@
-![BTS](/logo.png)
+![BTS](/SmartTour-logo.png)
 
 ##### [Barcelona Technology School - Master in Big Data Solutions](https://barcelonatechnologyschool.com/master/master-in-big-data-solutions/)
 
