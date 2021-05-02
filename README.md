@@ -2,7 +2,7 @@
 
 ##### [Barcelona Technology School - Master in Big Data Solutions](https://barcelonatechnologyschool.com/master/master-in-big-data-solutions/)
 
-# Description
+# Descriptiona
 
 SmartTour is a service provided through mobile app / web that allows tourists in a city to consult about the points of attraction they want to visit, obtain information about them and earn points for visiting them which is redeemable for vouchers provided by partnerships (restaurants, museums, parks, theaters, hotels, etc).
 
