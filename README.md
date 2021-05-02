@@ -1,4 +1,4 @@
-![BTS](/Logo.png)
+![BTS](/Logo.png width="400px")
 
 ##### [Barcelona Technology School - Master in Big Data Solutions](https://barcelonatechnologyschool.com/master/master-in-big-data-solutions/)
 
